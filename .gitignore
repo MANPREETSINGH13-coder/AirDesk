@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*_backup.py
+main_FINAL_WORKING.py
+main_step6_working.py
+main_step6_backup.py
+main_step7_backup.py
+main_step8_backup.py
+main_step9_backup.py
+hand_tracking_backup.py
