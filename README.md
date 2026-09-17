@@ -130,17 +130,6 @@ AirDesk includes safety-oriented controls to prevent accidental interaction.
 
 The system is designed so that computer control can be disabled when required.
 
-## 🎥 Demo
-
-A demonstration video can be added here:
-
-**Demo Video:**
-*Add your Google Drive / YouTube demo link here.*
-
-## 📸 Screenshots
-
-*Add screenshots of the AirDesk interface and hand-tracking system here.*
-
 ## 🎯 Project Goal
 
 The goal of AirDesk AI is to explore accessible and touchless human-computer interaction using computer vision.
